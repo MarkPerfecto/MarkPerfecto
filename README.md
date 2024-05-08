@@ -11,8 +11,6 @@ I am Mark Karevin D. Perfecto, with a flair for coding and database management s
 ## Certification
 
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/c06b005ce8f547f9882e3335b19e60cb) 
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](#)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](#)
 
 ## Skill Sets
 
