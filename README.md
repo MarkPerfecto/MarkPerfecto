@@ -2,9 +2,10 @@
 
 ## About Me
 
-I am Mark Karevin D. Perfecto ,with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+I am Mark Karevin D. Perfecto, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I pursued the BS Information Technology program.
 
 ## Education
+
 - 🎓 Studied BS Information Technology at New Era University (2021-Present)
 
 ## Certification
@@ -16,19 +17,20 @@ I am Mark Karevin D. Perfecto ,with a flair for coding and database management s
 ## Skill Sets
 
 - Programming: 
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
 - Databases:
-  - ![IBM DB2 Cloud](https://img.shields.io/badge/-IBM%20DB2%20Cloud-054ADA?style=flat&logo=ibm&logoColor=white)
+  - ![IBM DB2 Cloud](https://img.shields.io/badge/-IBM%20DB2%20Cloud-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
   
 - Tools:
-  - ![Lucidchart](https://img.shields.io/badge/-Lucidchart-F2F2F2?style=flat&logo=lucidchart&logoColor=0D5FFF)
-  - ![Jaspersoft Studio](https://img.shields.io/badge/-Jaspersoft%20Studio-FF0000?style=flat&logo=jaspersoft&logoColor=white)
-  - ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+  - ![Lucidchart](https://img.shields.io/badge/-Lucidchart-F2F2F2?style=for-the-badge&logo=lucidchart&logoColor=0D5FFF)
+  - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  - ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/mark-perfecto-a926a1308)
 - Email: karevindp@gmail.com
+
