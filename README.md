@@ -1,4 +1,4 @@
-# Hi there, I'm Juan Dela Cruz! 👋
+# Hi there, I'm Perfecto, Mark Karevin D.! 👋
 
 I am a passionate coder with expertise in database management. I enjoy diving into complex problems and crafting elegant solutions.
 
@@ -8,7 +8,7 @@ I am a passionate coder with expertise in database management. I enjoy diving in
 
 ## Certification
 
-- [NoSQL and DBaaS 101](#) 
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/c06b005ce8f547f9882e3335b19e60cb) 
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](#)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](#)
 
@@ -29,5 +29,5 @@ I am a passionate coder with expertise in database management. I enjoy diving in
 
 ## Connect with Me
 
-- [LinkedIn](LinkedIn profile link)
-- Email: juandelacruz@gmail.com
+- [LinkedIn](www.linkedin.com/in/mark-perfecto-a926a1308)
+- Email: karevindp@gmail.com
