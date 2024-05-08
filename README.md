@@ -1,9 +1,10 @@
 # Hi there, I'm Perfecto, Mark Karevin D.! 👋
 
-I am a passionate coder with expertise in database management. I enjoy diving into complex problems and crafting elegant solutions.
-
 ## About Me
 
+I am Mark Karevin D. Perfecto ,with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+
+## Education
 - 🎓 Studied BS Information Technology at New Era University (2021-Present)
 
 ## Certification
